@@ -1,9 +1,9 @@
-// import logo from './logo.svg';
+
 import './App.css';
-import Navbar from './component/Navbar';
-import Admin from './component/Admin';
-import JoinUs from './component/JoinUs';
-import Home from './component/Home';
+import Navbar from './Pages/Navbar';
+import Admin from './Pages/Admin';
+import JoinUs from './Pages/JoinUs';
+import Home from './Pages/Home';
 import { Route, Routes } from 'react-router-dom';
 function App() {
   
