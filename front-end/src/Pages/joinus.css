@@ -1,0 +1,17 @@
+#JU_CMP{
+position: relative;
+bottom: 70px;
+}
+
+input{
+    margin: 15px;
+    border-radius: 5px;
+    border: solid black;
+    background-color: whitesmoke;
+   padding: 5px;
+   font-weight: 700;
+
+}
+label,h4{
+    color: black;
+}

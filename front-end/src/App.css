@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   text-align: center;
-  /* height:60% */
+
 }
 
 .App-logo {
@@ -33,7 +33,7 @@ background: linear-gradient(to right, #86fde8, #acb6e5); /* W3C, IE 10+/ Edge, F
 
 
 
-  min-height: 80vh;
+  min-height: 92vh;
   display: flex;
   flex-direction: column;
   align-items: center;
